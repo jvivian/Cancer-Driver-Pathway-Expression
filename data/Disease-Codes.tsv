@@ -1,0 +1,45 @@
+Code	Description
+AML	Acute Myeloid Leukemia
+ACC	Adrenocortical carcinoma
+BRCA	Breast cancer
+CESC	Cervical cancer
+KICH	Chromophobe renal cell carcinoma
+KIRC	Clear cell kidney carcinoma
+COAD	Colon adenocarcinoma
+READ	Rectal adenocarcinoma
+SKCM	Cutaneous melanoma
+DLBC	Diffuse large B-cell lymphoma
+GBM	Glioblastoma multiforme
+HNSC	Head and neck squamous cell carcinoma
+LIHC	Liver hepatocellular carcinoma
+LGG	Lower Grade Glioma
+LUAD	Lung adenocarcinoma 
+LUSC	Lung squamous cell carcinoma 
+OV	Ovarian serous cystadenocarcinoma 
+KIRP	Papillary kidney carcinoma 
+THCA	Papillary thyroid carcinoma 
+STAD	Stomach adenocarcinoma 
+PRAD	Prostate adenocarcinoma 
+BLCA	Urothelial bladder cancer 
+UCS	Uterine carcinosarcoma 
+UCEC	Uterine corpus endometrial carcinoma 
+ESCA	Esophageal cancer 
+PCPG	Pheochromocytoma & Paraganglioma 
+PAAD	Pancreatic ductal adenocarcinoma 
+MESO	Mesothelioma 
+UVM	Uveal melanoma 
+SARC	Sarcoma 
+CHOL	Cholangiocarcinoma 
+TGCT	Testicular germ cell cancer 
+THYM	Thymoma 
+STES	Stomach and esophageal cancer
+CRC	Colorectal cancer
+EBV	Epstein-Barr Virus
+HPV	Human Papillomavirus 
+DDLPS	Dedifferentiated liposarcoma
+LMS	Leiomyosarcoma
+MFS/UPS	Myxofibrosarcoma/Undifferentiated Pleomorphic Sarcoma
+ESCC	Esophageal Squamous Cell Carcinoma
+GS	Genomically Stable
+CIN	Chromosomal Instability
+MSI	Microsatellite Instability
